@@ -1,0 +1,18 @@
+{
+  "$schema": "https://schemas.wp.org/trunk/theme.json",
+  "version": 3,
+  "settings": {
+    "appearanceTools": true,
+    "layout": { "contentSize": "840px", "wideSize": "1240px" },
+    "color": {
+      "palette": [
+        { "slug": "finance-ink", "name": "Finance Ink", "color": "#15322f" },
+        { "slug": "finance-teal", "name": "Finance Teal", "color": "#12675d" },
+        { "slug": "finance-mint", "name": "Finance Mint", "color": "#e4f1ed" },
+        { "slug": "finance-gold", "name": "Finance Gold", "color": "#d7aa52" },
+        { "slug": "finance-paper", "name": "Finance Paper", "color": "#f7f7f2" }
+      ]
+    }
+  }
+}
+
